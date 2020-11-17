@@ -12,7 +12,7 @@ import numpy as np
 from model import yolov3
 from utils.misc_utils import parse_anchors, load_weights
 
-num_class = 1
+num_class = 2
 img_size = 416
 weight_path = './data/darknet_weights/yolov3.weights'
 save_path = './data/darknet_weights/yolov3.ckpt'
