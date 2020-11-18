@@ -26,6 +26,6 @@ There are two steps:
 
 ###Some results:
 
-![](/Inference/data/result/00012.jpg?raw=true)
+![](Inference/data/result/00012.jpg?raw=true)
 
-![](/Inference/data/result/00014.jpg?raw=true)
+![](Inference/data/result/00014.jpg?raw=true)
