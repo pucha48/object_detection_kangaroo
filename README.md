@@ -24,8 +24,8 @@ There are two steps:
 ##### 2. Testing on sample dataset taken from Kaggle [sample_data](https://www.kaggle.com/astaroth88/kangaroo-detection/download)
 
 
-###Some results:
+#Some results:
 
-![](Inference/data/result/00012.jpg?raw=true)
+![Sample 1](Inference/data/result/00012.jpg)
 
-![](Inference/data/result/00014.jpg?raw=true)
+![Sample 2](Inference/data/result/00014.jpg)

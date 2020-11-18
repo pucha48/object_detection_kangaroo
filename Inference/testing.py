@@ -55,11 +55,14 @@ with tf.Session() as sess:
     saver = tf.train.Saver()
     saver.restore(sess, args.restore_path)
 
-    root_path = "/Inference/data/sample_images/"
+    root_path = "data/sample_images/"
     lst = os.listdir(root_path)
     for file in lst:
         str_time = time.time()
         img_ori = cv2.imread(root_path + file)
+
+        ## Image Preprocessing
+
         if args.letterbox_resize:
             img, resize_ratio, dw, dh = letterbox_resize(img_ori, args.new_size[0], args.new_size[1])
         else:
@@ -84,7 +87,7 @@ with tf.Session() as sess:
             plot_one_box(img_ori, [x0, y0, x1, y1], label=args.classes[labels_[i]] + ', {:.2f}%'.format(scores_[i] * 100), color=color_table[labels_[i]])
         end_time = time.time()
         diff = end_time - str_time
-        # print("time_taken = " , diff, "FPS = " , 1/diff)
+        print("time_taken = " , diff, "FPS = " , 1/diff)
         cv2.imshow('Detection result', img_ori)
         cv2.imwrite('data/result/' + file, img_ori)
         cv2.waitKey(1)
