@@ -1,0 +1,107 @@
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 23:12:21 2020 +0530
+
+    Requirements
+
+commit 4c2594ae025277b8046be189b244ea2053127110
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 21:21:05 2020 +0530
+
+    Adding Sample data
+
+commit f420f2b5bd11cb9e294debccd9e3d00d3c199ae5
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 21:14:31 2020 +0530
+
+    Image Display
+
+commit 3c8f57f86d048a48ecda59b9d9eefe65fcb776d8
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 21:04:05 2020 +0530
+
+:...skipping...
+commit cf7f276e43df66586ccdd2c4582489c614d24705 (HEAD -> main, origin/main, origin/HEAD)
+Author: pucha48 <malakpurushottam48@gmail.com>
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 23:12:21 2020 +0530
+
+    Requirements
+
+commit 4c2594ae025277b8046be189b244ea2053127110
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 21:21:05 2020 +0530
+
+    Adding Sample data
+
+commit f420f2b5bd11cb9e294debccd9e3d00d3c199ae5
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 21:14:31 2020 +0530
+
+    Image Display
+
+commit 3c8f57f86d048a48ecda59b9d9eefe65fcb776d8
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 21:04:05 2020 +0530
+
+    Update gitignore
+
+commit cd1dffd3aaa3da4dbdeb4f96ecdb630192ed5e1b
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 21:03:06 2020 +0530
+
+    Updating Readme.md
+
+commit c22733af654471cac4d57298c0166783f989d4da
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 20:27:53 2020 +0530
+
+    Update README.md
+
+commit a8939f012c6b0ce6aef6f7a32fe26bfa44aa08c2
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 20:22:47 2020 +0530
+
+    Cleaning
+
+commit 2b80930782d7552e1ce247d8abfc7921ab6cc312
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 20:19:44 2020 +0530
+
+    Adding Trainig part
+
+commit 6ffe2bbf7f880c6c02d670d532f3c3390ff7deb4
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 20:01:06 2020 +0530
+
+    Updated Readme Files
+
+commit acec2194f77a64e40c5ee4a0f6e0be261cadd48a
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Wed Nov 18 19:27:09 2020 +0530
+
+    Pipeline Modification for Inference
+
+commit 4503040e9eb8147ade032fbe6d0f82b37497f6ee
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Tue Nov 17 21:41:28 2020 +0530
+
+    Weight_conversion
+
+commit f4ac0a005f266b83d945b277cc8b2b0327ba9d8f
+Author: malakpurushottam48@gmail.com <ankitsuwal@gmail.com>
+Date:   Tue Nov 17 21:37:24 2020 +0530
+
+    Weight_conversion
+
+commit becd1728e8d5d6afa163c61ad63c7dfa6affb102
+Author: antpc <ankitsuwal@gmail.com>
+Date:   Tue Nov 17 21:17:48 2020 +0530
+
+    Consolidation
+
+commit 533c5fee2a5d60004a416e7340393485b46e4ed8
+Author: pucha48 <malakpurushottam48@gmail.com>
+Date:   Tue Nov 17 21:07:14 2020 +0530
+
+    Initial commit
+
